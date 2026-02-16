@@ -7,7 +7,7 @@
 *Exploring the intersection of deep learning, model efficiency and geospatial intelligence*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-nagar-a81176191)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VNagar24040)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VNagar24040)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 - 🔭 Currently working on **transformer architectures** and building them from scratch
 - 🌱 Deep diving into **MLOps best practices** and automated ML pipelines
-- 🎓 Graduate background in Remote Sensing and GIS with focus on **GeoAI**
+- 🎓 Graduate from NIT Warangal with a background in Remote Sensing and GIS with focus on **GeoAI**
 - 🌍 Based in Delhi, India
 - 💬 Ask me about **LLMs, CNNs or Geospatial deep learning**
 - ⚡ Fun fact: I love implementing papers from scratch to truly understand the architecture
@@ -72,7 +72,7 @@ Fine-tuning Llama 3 on the Dolly dataset using Low-Rank Adaptation (LoRA) for pa
 
 ---
 
-## ⭐ Repos I'm Following
+## ⭐ Few Repos I'm Currently Following
 
 Some interesting projects and resources I've been exploring:
 
@@ -95,13 +95,11 @@ Some interesting projects and resources I've been exploring:
 I'm always open to collaborating on interesting AI/ML projects, discussing research ideas or just chatting about the latest in deep learning!
 
 -  [LinkedIn](https://www.linkedin.com/in/vaibhav-nagar-a81176191)
--  [Twitter/X](https://x.com/VNagar24040)
+-  [X/Twitter](https://x.com/VNagar24040)
 -  [vaibnag11@gmail.com](mailto:vaibnag11@gmail.com)
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav170216&color=blueviolet&style=for-the-badge)
 
 </div>
