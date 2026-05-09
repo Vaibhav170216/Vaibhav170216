@@ -78,6 +78,7 @@ Some interesting projects and resources I've been exploring:
 - [**ucam-eo/tessera**](https://github.com/ucam-eo/tessera) - TESSERA is a GeoAI foundation model that can process time-series satellite imagery
 - [**VMarsocci/pangaea-bench**](https://github.com/VMarsocci/pangaea-bench) - A benchmark for evaluation of Geospatial Foundation Models
 - [**DataTalksClub/mlops-zoomcamp**](https://github.com/DataTalksClub/mlops-zoomcamp) - MLOps course from DataTalks.Club
+- [**DataTalksClub/llm-zoomcamp**](https://github.com/DataTalksClub/llm-zoomcamp) - LLM course including RAGs and Agents
 
 ---
 
