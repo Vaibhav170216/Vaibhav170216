@@ -16,7 +16,7 @@
 
 - 🔭 Currently working on **transformer architectures** and building them from scratch
 - 🌱 Deep diving into **MLOps best practices** and automated ML pipelines
-- 🎓 Graduate from NIT Warangal with a background in Remote Sensing and GIS with focus on **GeoAI**
+- 🎓 M.Tech Graduate from NIT Warangal with a background in Remote Sensing and GIS with focus on **GeoAI**
 - 🌍 Based in Delhi, India
 - 💬 Ask me about **LLMs, CNNs or Geospatial deep learning**
 - ⚡ Fun fact: I love implementing papers from scratch to truly understand the architecture
