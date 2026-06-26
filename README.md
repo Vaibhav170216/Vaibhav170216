@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🤖 Aspiring ML Engineer | 🧠 LLM Enthusiast | 🌍 GeoAI Researcher
+### 🤖 Aspiring ML Engineer | 🧠 LLM Enthusiast |
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-nagar-a81176191)
