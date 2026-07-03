@@ -54,10 +54,10 @@ Master's thesis project comparing deep learning algorithms for Land Use Land Cov
 
 **Tech:** `Deep Learning` `Geospatial Analysis` `Remote Sensing` `1D CNN`
 
-### ⚙️ [MLOps Pipeline Automation](https://github.com/Vaibhav170216/mlops)
-Experimenting with end-to-end MLOps pipelines, CI/CD for ML models, model versioning and deployment best practices.
+### 🔎 [GeoAI Research Assistant](https://github.com/Vaibhav170216/geoai-research-assistant)
+End-to-end RAG system for exploring GeoAI, Earth Observation and Remote Sensing research papers. Hybrid retrieval (SQLite FTS + semantic search fused via RRF), Streamlit UI and a full RAGAS evaluation pipeline.
 
-**Tech:** `MLOps` `Docker` `CI/CD` `Model Deployment`
+**Tech:** `RAG` `Hybrid Search` `LangChain` `Streamlit` `RAGAS`
 
 ### 🔍 [Transformers & Vision Transformers from Scratch](https://github.com/Vaibhav170216/transformers-and-vit-from-scratch)
 Built transformer and Vision Transformer (ViT) architectures from scratch in PyTorch. Deep dive into attention mechanisms, positional encodings and patch embeddings.
